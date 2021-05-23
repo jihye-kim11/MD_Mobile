@@ -1,11 +1,11 @@
 # MD-Mobile
 PeopleSpace Project - Mechanic Doctor
 
-##**Main Page**
+## **Main Page**
 
 *MainActivity.java*
 
-##**4 button in home screen**
+## **4 button in home screen**
 
 **CAR ISSUE LIST button**
 
