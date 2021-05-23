@@ -1,6 +1,10 @@
 # MD-Mobile
 [PeopleSpace Project - Mechanic Doctor](https://github.com/jihye-kim11/Sound-mechanic)
 
+
+![image7](https://user-images.githubusercontent.com/59490892/119259461-662ec200-bc09-11eb-9fd6-021c20fb8178.gif)
+
+
 ## **Main Page**
 
 *MainActivity.java*
@@ -33,5 +37,3 @@ https://github.com/adrielcafe/AndroidAudioRecorder
 :moving how to use screen
 
 *Related files: howtouse.java, activity_howtouse.xml, content_howtouse.xml*
-
-![image7](https://user-images.githubusercontent.com/59490892/119259461-662ec200-bc09-11eb-9fd6-021c20fb8178.gif)
