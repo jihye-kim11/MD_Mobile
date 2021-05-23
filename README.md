@@ -1,5 +1,5 @@
 # MD-Mobile
-PeopleSpace Project - Mechanic Doctor
+[PeopleSpace Project - Mechanic Doctor](https://github.com/jihye-kim11/Sound-mechanic)
 
 ## **Main Page**
 
