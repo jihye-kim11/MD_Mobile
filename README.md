@@ -10,13 +10,13 @@
 
 ## **4 button in home screen**
 
-###**CAR ISSUE LIST button**   
+### **CAR ISSUE LIST button**   
 <img src = "https://user-images.githubusercontent.com/59490892/120914343-9f226880-c6d8-11eb-9a7e-0607ec300aa4.gif" width="400px">   
 :moving car issue list screen
 
 *Related files: CarIssueActivity.java, activity_carissue.xml, CarIssuePageAdapter.java,list_item_carissue.xml*
 
-###**DIAGNOSE button**   
+### **DIAGNOSE button**   
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/59490892/120914793-5324f300-c6db-11eb-8dea-1a58f86c4ea7.gif)
 
 :moving submit recorded sound for classification screen   
@@ -27,13 +27,13 @@ Using Github open source Library
 
 https://github.com/adrielcafe/AndroidAudioRecorder
 
-###**PURPOSE button**   
+### **PURPOSE button**   
 <img src = "https://user-images.githubusercontent.com/59490892/120914624-6d120600-c6da-11eb-80d4-a411553283fb.jpg" width="400px">   
 
 :moving purpose screen(explain problems&objective)   
 *Related files: purpose.java, activity_purpose.xml*
 
-###**HOW TO USE button**   
+### **HOW TO USE button**   
 <img src = "https://user-images.githubusercontent.com/59490892/120914627-726f5080-c6da-11eb-8235-ca455a6ec845.jpg" width="400px">   
 
 :moving how to use screen
