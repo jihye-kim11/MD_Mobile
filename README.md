@@ -12,7 +12,7 @@
 ## **4 button in home screen**
 
 **CAR ISSUE LIST button**
-
+<img src = "https://user-images.githubusercontent.com/59490892/120914343-9f226880-c6d8-11eb-9a7e-0607ec300aa4.gif" width="400px">
 :moving car issue list screen
 
 *Related files: CarIssueActivity.java, activity_carissue.xml, CarIssuePageAdapter.java,list_item_carissue.xml*
