@@ -6,7 +6,7 @@
 
 
 ## **Main Page**
-
+<img src = "https://user-images.githubusercontent.com/59490892/120914576-fb39bc80-c6d9-11eb-946f-8c45c0a208b2.jpg" width="400px">
 *MainActivity.java*
 
 ## **4 button in home screen**
