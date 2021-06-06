@@ -19,6 +19,8 @@
 ###**DIAGNOSE button**   
 ![image7](https://user-images.githubusercontent.com/59490892/119259461-662ec200-bc09-11eb-9fd6-021c20fb8178.gif)
 <img src = "https://user-images.githubusercontent.com/59490892/120914707-d4c85100-c6da-11eb-81c3-0fe4acc96719.jpg" width="350px">     
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/59490892/120914785-40122300-c6db-11eb-9d94-9a62c47318f1.gif)
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/59490892/120914793-5324f300-c6db-11eb-8dea-1a58f86c4ea7.gif)
 
 :moving submit recorded sound for classification screen   
 
