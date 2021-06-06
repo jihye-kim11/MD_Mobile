@@ -28,13 +28,13 @@ Using Github open source Library
 https://github.com/adrielcafe/AndroidAudioRecorder
 
 ###**PURPOSE button**   
-![KakaoTalk_20210606_151751360_02](https://user-images.githubusercontent.com/59490892/120914624-6d120600-c6da-11eb-80d4-a411553283fb.jpg)
+<img src = "https://user-images.githubusercontent.com/59490892/120914624-6d120600-c6da-11eb-80d4-a411553283fb.jpg" width="400px">   
 
 :moving purpose screen(explain problems&objective)   
 *Related files: purpose.java, activity_purpose.xml*
 
 ###**HOW TO USE button**   
-![KakaoTalk_20210606_151751360_01](https://user-images.githubusercontent.com/59490892/120914627-726f5080-c6da-11eb-8235-ca455a6ec845.jpg)   
+<img src = "https://user-images.githubusercontent.com/59490892/120914627-726f5080-c6da-11eb-8235-ca455a6ec845.jpg" width="400px">   
 
 :moving how to use screen
 
